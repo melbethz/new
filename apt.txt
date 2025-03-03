@@ -1,8 +1,0 @@
-zlib1g-dev
-libjpeg-dev
-libfreetype6-dev
-liblcms2-dev
-libopenjp2-7-dev
-libtiff-dev
-build-essential
-python3-dev
