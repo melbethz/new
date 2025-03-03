@@ -56,7 +56,7 @@ st.header("Nomogram")
 st.write("Below is the nomogram visualizing the logistic regression model for postoperative bleeding risk.")
 
 # Path to the Excel file containing the model parameters
-path = "bleeding.xlsx"
+path = "model3.xlsx"
 fig = simpleNomo.nomogram(path)
 
 # Display the nomogram figure
